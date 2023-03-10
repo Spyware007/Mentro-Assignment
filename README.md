@@ -12,6 +12,7 @@
 
 ---
 
+<div align="left">
 ### How to run this?
 
 - Clone on your local machine
@@ -37,6 +38,8 @@ npm i
 ```
 npm start
 ```
+
+</div>
 
 https://user-images.githubusercontent.com/89961974/224196809-1eeed943-5ef0-4f90-9f0f-b202e65e78d9.mov
 
