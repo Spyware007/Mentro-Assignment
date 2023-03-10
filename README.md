@@ -55,6 +55,8 @@ https://user-images.githubusercontent.com/89961974/224196809-1eeed943-5ef0-4f90-
 
 ---
 
+<div align="left">
+
 ### What's in this?
 
 - A circular image slider that you had never seen.
@@ -62,6 +64,8 @@ https://user-images.githubusercontent.com/89961974/224196809-1eeed943-5ef0-4f90-
 - Color changing on previous,next or directly by clicking image.
 - You can also click on any image to set it as active. (Additional)
 - Automatically active image changing after 7 seconds. (Additional) (Present in code not implemented)
+
+</div>
 
 ---
 
