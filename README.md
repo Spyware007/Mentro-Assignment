@@ -1,3 +1,9 @@
+<p align="center"=> 
+*Check the feature where if anyone click on image from the slider then its set to active it's not the part of design but it will be a good UX.
+</p>
+
+----
+
 <div align = "center">
   
 # Mentro-Assignment
